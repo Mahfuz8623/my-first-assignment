@@ -149,15 +149,15 @@ body{
     border-top-right-radius: 100px; */
 }
 .img1{
-    background: red;
+    background: rgb(236, 171, 171);
     padding: 20px 20px 0px 20px;
 }
 .img2{
-    background: red;
+    background: rgb(155, 205, 224);
     padding: 20px 20px 0px 20px;
 }
 .img3{
-    background: red;
+    background: rgb(187, 161, 169);
     padding: 20px 20px 0px 20px;}
     .latestdeal{
         text-align: center;
