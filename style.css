@@ -28,10 +28,21 @@ body{
     border-radius: 20px;
     margin-top: 40px;
 }
+.banner_text{
+    margin-top: 125px;
+}
 .banner_text h1{
     font-size: 50px;
     color: #000;
     font-weight: 700;
+    padding-bottom: 20px;
+}
+.banner_text p{
+    font-size: 16px;
+    color: #000;
+    font-weight: 400px;
+   line-height: 30px;
+
 }
 .banner_img img{
     width: 400px;
@@ -42,6 +53,7 @@ body{
 .sect_four_banner_text {
     text-align: center;
     width: 561px;
+    margin-top: 100px;
 }
 .sect_four_banner_text img{
     width: 200px;
@@ -118,10 +130,11 @@ body{
 }
 .footer{
     background: #000;
-    padding: 20px 0;
+    padding: 40px 0;
 }
 .footer_text h3{
-    color: #fff;
+    color: rgb(207, 91, 91);
+    font-size: 40px;
 }
 .footer_text p{
     color: #fff;
@@ -131,3 +144,28 @@ body{
     font-size: 10px;
     padding-top: 10px;
 }
+.second_section img{
+    /* border-top-left-radius: 100px;
+    border-top-right-radius: 100px; */
+}
+.img1{
+    background: red;
+    padding: 20px 20px 0px 20px;
+}
+.img2{
+    background: red;
+    padding: 20px 20px 0px 20px;
+}
+.img3{
+    background: red;
+    padding: 20px 20px 0px 20px;}
+    .latestdeal{
+        text-align: center;
+        margin-bottom: 20px;
+    }
+    .flower{
+        margin-left: 200px;
+    }
+    .footershop{
+        color: white;
+    }
