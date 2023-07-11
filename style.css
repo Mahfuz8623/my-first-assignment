@@ -1,0 +1,133 @@
+*{
+    padding: 0;
+    margin: 0;
+    outline: none;
+}
+body{
+    background: #D9D9D9;
+}
+
+.header{
+    background: #ddd;
+    padding-top: 20px;
+}
+.container{
+    width: 1140px;
+    margin: 0 auto;
+}
+.banner{
+    display: flex;
+}
+/* .banner_text{
+    width: 100px;
+} */
+.banner_btn{
+    padding: 10px 20px;
+    background: red;
+    color: #fff;
+    border-radius: 20px;
+    margin-top: 40px;
+}
+.banner_text h1{
+    font-size: 50px;
+    color: #000;
+    font-weight: 700;
+}
+.banner_img img{
+    width: 400px;
+}
+.section_four{
+    background:#ddd;
+}
+.sect_four_banner_text {
+    text-align: center;
+    width: 561px;
+}
+.sect_four_banner_text img{
+    width: 200px;
+    margin-left: 300px;
+}
+.flower_sectiomn{
+    background:#eed4d4;
+    padding-bottom: 30px;
+    padding: 30px 0;
+    /* margin-top: 30px; */
+}
+.flower{
+    text-align:center ;
+}
+.flower p{
+    width: 500px;
+    margin: 0 auto;
+}
+.flower_list{
+    padding: 10px 0;
+    display: flex;
+}
+.second_section{
+    margin-left: 100px;
+}
+.second_section img {
+    width: 275px;
+    margin: 0 5px;
+    text-align: center;
+    border-top-left-radius: 200px;
+    border-top-right-radius: 200px;
+}
+.flower_list img {
+    width: 275px;
+    margin: 0 5px;
+}
+
+
+.latest_desk{
+    padding: 50px 0;
+}
+.bg_flower img{
+ width: 100%;
+}
+.bg_flower{
+    position: relative;
+}
+.latest_text{
+    position: absolute;
+    top: 0;
+    left: 0;
+}
+.latest_text input{
+    width: 400px;
+    padding: 20px;
+    border: none;
+}
+.latest_text button{
+    width: 200px;
+    background: red;
+    padding: 20px;
+    border: none;
+}
+.latest_text {
+    position: absolute;
+    top: 155px;
+    left: 205px;
+}
+.footer_text{
+    text-align: center;
+    width: 600px;
+    margin: 0 auto;
+    padding-bottom: 20px;
+}
+.footer{
+    background: #000;
+    padding: 20px 0;
+}
+.footer_text h3{
+    color: #fff;
+}
+.footer_text p{
+    color: #fff;
+}
+.footer_text h6{
+    color: #fff;
+    font-size: 10px;
+    padding-top: 10px;
+}
